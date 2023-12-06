@@ -6,11 +6,11 @@ Git clone or download this repository.
 
 utilize requirements.txt to install the required libraries.
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Unzip CNN-1 and CNN-2 and place the same files in the same(default) directory.
 
 Go to the current directory in the anaconda prompt window and enter the code below:
 
-python dist/GUI_CPU.py
+    python dist/GUI_CPU.py
 
