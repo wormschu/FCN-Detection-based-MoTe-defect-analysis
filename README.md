@@ -13,7 +13,11 @@ utilize requirements.txt to install the required libraries.
 
 Unzip fasterRCNN.egg and place the .pt file in the default directory.
 
-Go to the current directory in the anaconda prompt window and enter the code below:
+Then, place the STEM images to be analyzed in the Dataset folder.
+
+finally, go to the current directory in the anaconda prompt window and enter the code below:
 
     python dist/All_process.py
 
+
+Results are saved in the Results folder.
