@@ -15,5 +15,5 @@ Unzip fasterRCNN.egg and place the .pt file in the default directory.
 
 Go to the current directory in the anaconda prompt window and enter the code below:
 
-    python dist/GUI_CPU.py
+    python dist/All_process.py
 
